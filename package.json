@@ -1,0 +1,16 @@
+{
+  "name": "responsive_portfolio_traning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Timebear000/Responsive-Portfolio-Training.git",
+  "author": "Timebear000 <timebear000@gmail.com>",
+  "license": "MIT",
+   "source": "./src/index.html",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.54.4"
+  }
+}
